@@ -27,8 +27,8 @@ I'm a passionate **Frontend Engineer** on a journey to become a **Full-stack Dev
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/GraphQL-38B2AC?style=for-the-badge&logo=graphql&logoColor=black)
-![REDUX](https://img.shields.io/badge/Redux-38B2AC?style=for-the-badge&logo=redux&logoColor=white)
+![GRAPHQL](https://img.shields.io/badge/GraphQL-ff9900?style=for-the-badge&logo=graphql&logoColor=black)
+![REDUX](https://img.shields.io/badge/Redux-F9DF1E?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend & Learning
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
