@@ -27,11 +27,19 @@ I'm a passionate **Frontend Engineer** on a journey to become a **Full-stack Dev
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GRAPHQL](https://img.shields.io/badge/GraphQL-ff9900?style=for-the-badge&logo=graphql&logoColor=black)
-![REDUX](https://img.shields.io/badge/Redux-F9DF1E?style=for-the-badge&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+### State Management & Data Fetching
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-78350F?style=for-the-badge&logo=zustand&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A28E0?style=for-the-badge&logo=axios&logoColor=white)
+
+### Development Tools
+![Prettier](https://img.shields.io/badge/Prettier-4B3461?style=for-the-badge&logo=prettier&logoColor=white)
 
 ### Backend & Learning
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodejs&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
