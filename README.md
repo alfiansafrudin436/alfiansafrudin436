@@ -28,6 +28,9 @@ I'm a passionate **Frontend Engineer** on a journey to become a **Full-stack Dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![GraphQL Codegen](https://img.shields.io/badge/GraphQL_Codegen-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![KendoReact](https://img.shields.io/badge/KendoReact-FF6358?style=for-the-badge&logo=telerik&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
 ### State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
